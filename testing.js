@@ -25,3 +25,4 @@ function panggilSaya() {
 }
 
 panggilSaya()
+// ini latihan untuk dijalankan menggunakan nodejs ya
